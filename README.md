@@ -1,6 +1,6 @@
 # CS 450 - Introduction to Computer Graphics
 
-Here are all my projects from CS 450 - Introduction to Computer Graphics with Dr. Mike Bailey. I learned how to implement iconic CG effects, from lighting to texture mapping to shaders, in barebones OpenGL and GLSL. 
+Here are all my projects from CS 450 - Introduction to Computer Graphics with Dr. Mike Bailey. I learned how to implement iconic CG effects, from lighting to texture mapping to shaders, in C++ with OpenGL and GLSL. 
 
 Check out my pdfs folder to read about my approach to each project!
 
@@ -28,7 +28,7 @@ Check out my pdfs folder to read about my approach to each project!
 
 <img src="readme/proj6.gif" width=500px>
 
-## Final Project
+## Final Project - Random Cobweb Generator
 
 <img src="readme/final.png" width=500px>
 <img src="readme/final2.png" width=500px>
